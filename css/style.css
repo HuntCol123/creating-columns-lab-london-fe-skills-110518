@@ -50,10 +50,10 @@ img:hover {
 
 .column { 
   float: left;
-  width: 33%;
+  width: 30%;
   height: 300px;
   background: red;
-  margin-right: 10%;
+
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
