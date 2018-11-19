@@ -56,7 +56,8 @@ img {
 .column { 
   width: 32%;
   display: inline-block;
-
+}
 /* create your tile classes! we recommend .small .med .large */
 
-.medium {width: 204%;}
+.medium {
+  width: 204%;}
